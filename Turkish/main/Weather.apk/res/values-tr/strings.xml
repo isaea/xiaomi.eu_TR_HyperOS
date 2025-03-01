@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+	<string name="aqi_detail_5_days">5 günlük tahmin</string>
+	<string name="aqi_quality_detail_5_days">5 günlük tahmin</string>
+	<string name="aqi_detail_24_hours">24 saatlik hava durumu tahmini</string>
+	<string name="aqi_quality_detail_24_hours">24 saatlik hava durumu tahmini</string>
+	<string name="hourly_forecast_title_24_hours_desc">24 saatlik hava durumu tahmini</string>
+	<string name="shortcut_short_label_24_hour_forecast">24 saatlik hava durumu tahmini</string>
+	<string name="background_location_dialog_title">İzin gerekli</string>
+	<string name="activity_find_city_location_fail_dialog_title">İzin gerekli</string>
+	<string name="background_location_dialog_msg">Bu uygulamanın her zaman doğru konum bilgilerini kullandığından emin olmak için, arka planda çalışırken konumunuza erişmesine izin verin. Bu izni Ayarlar'dan verebilirsiniz.</string>
+	<string name="button_not_allow">İptal</string>
+	<string name="activity_find_city_location_fail_dialog_negative_btn_tag">İptal</string>
+	<string name="background_location_dialog_open_button">Ayarlar</string>
+	<string name="activity_find_city_location_fail_dialog_positive_btn_tag">Ayarlar</string>
+</resources>

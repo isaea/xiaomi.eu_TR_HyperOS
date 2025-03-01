@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+	<string name="hide_apps_close">Görünür uygulama simgeleri</string>
+    <string name="hide_apps_open">Gizli uygulama simgeleri</string>
+    <string name="home_hide_apps">Uygulama simgelerini gizle</string>
+    <string name="home_search_bar_app">Arama çubuğu sağlayıcısı</string>
+    <string name="home_search_gesture_app">Yukarı kaydırma arama sağlayıcısı</string>
+    <string name="lockscreen_side_apps">Yan panel kısayolları</string>
+	<string name="status_bar_icons">Durum çubuğu simgeleri</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+	<string name="public_pdfFillForm">Formu Doldur</string>
+	<string name="public_pdf2word">Word'e çevir</string>
+	<string name="public_privacy_policy">Gizlilik Politikası</string>
+	<string name="public_export_pdf">PDF'ye aktar</string>
+	<string name="public_2pic">Resme aktar</string>
+	<string name="public_writer2pic">Görüntü dosyasına aktar</string>
+</resources>

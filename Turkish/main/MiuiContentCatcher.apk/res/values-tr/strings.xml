@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="app_name">Uygulama Uzantısı Hizmeti</string>
+	<string name="autofill_list_title">Şifreleri yönet</string>
+    <string name="autofill_service_label">Şifreleri yönet</string>
+    <string name="autofill_setting_activity_label">Şifreleri yönet</string>
+	<string name="autofill_password">Şifreleri otomatik olarak girin</string>
+	<string name="autofill_description">Xiaomi şifrelerinizi şifreleyip saklayabilir, böylece ihtiyaç duyduğunuzda otomatik olarak girebilirsiniz. Şifrelenmiş şifrelerinizi okuyamayız.</string>
+</resources>

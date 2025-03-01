@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+	<plurals name="hr_fp_detect_time_remainder">
+        <item quantity="one">%1$d saniye kaldı</item>
+        <item quantity="other">%1$d saniye kaldı</item>
+    </plurals>
+	<plurals name="unit_hours">
+        <item quantity="one"> sa </item>
+        <item quantity="other"> saat </item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="one"> saat </item>
+        <item quantity="other"> saat </item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="one"> dk </item>
+        <item quantity="other"> dk </item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="one"> dakika </item>
+        <item quantity="other"> dakika </item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="one"> saniye </item>
+        <item quantity="other"> saniye </item>
+    </plurals>
+    <plurals name="unit_times">
+        <item quantity="one"> kez</item>
+        <item quantity="other"> kez</item>
+	</plurals>
+	<plurals name="minutes_ago">
+        <item quantity="one">%1$d dk önce</item>
+        <item quantity="other">%1$d dk önce</item>
+    </plurals>
+</resources>

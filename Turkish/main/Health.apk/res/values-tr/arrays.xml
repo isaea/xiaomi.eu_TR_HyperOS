@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+	<string-array name="HomePageTabTitle">
+        <item>Sağlık</item>
+        <item>Egzersizler</item>
+    </string-array>
+	<string-array name="SportTabTitle">
+        <item>Koşu</item>
+        <item>Yürüyüş</item>
+        <item>Bisiklet</item>
+        <item>İp atlama</item>
+        <item>Antrenman</item>
+    </string-array>
+</resources>

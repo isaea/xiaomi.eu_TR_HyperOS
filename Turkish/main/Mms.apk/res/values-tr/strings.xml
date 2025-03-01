@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+	<string name="mms_main_purpose_new">Bu uygulamanın size temel hizmetleri sunabilmesi için internete bağlanması gerekir. Mi Mesaj ve Akıllı Mesajlaşma hizmetlerini açmanızı öneririz.</string>
+	<string name="mms_smart_msg_main_purpose">Akıllı Mesajlaşma gönderen kimliklerini tanıyabilir, akıllı menü hizmetleri sağlayabilir ve şüpheli mesajları belirleyebilir.</string>
+	<string name="system_permission_user_privacy">Devam etmeden önce aşağıdaki hüküm ve koşulları okuyun ve kabul edin.</string>
+	<string name="mms_user_agreement">Kullanıcı Sözleşmesi</string>
+	<string name="mms_smart_msg_privacy_policy">Akıllı Mesajlaşma Gizlilik Politikası</string>
+	<string name="dialog_quit">Çık</string>
+	<string name="system_permission_declare_exit">Çık</string>
+	<string name="dialog_agree">Kabul et</string>
+    <string name="dialog_cancel">İptal</string>
+	<string name="system_permission_declare_user_agree">Kabul et</string>
+    <string name="system_permission_disabled">Yetki Verilmedi</string>
+    <string name="system_permission_enabled">Yetki verildi</string>
+    <string name="system_permission_perm_agree_desc">Bu uygulamanın internete bağlanmasına izin verin ve tüm özelliklerini kullanabilmek için isteğe bağlı izinleri verin.</string>
+	<string name="mms_mi_message_main_purpose">Mi Mesaj'a hoş geldiniz! Mi Mesaj'ı etkinleştirmek için giden bir SMS mesajı gereklidir. Operatörünüz bu mesaj için sizden ücret alacaktır.</string>
+    <string name="mms_mi_message_request_notice">Mi Mesaj’dan en iyi şekilde yararlanmanızı istiyoruz.</string>
+	<string name="system_permission_declare_smart_message">Akıllı Mesajlaşmaya Hoş Geldiniz!</string>
+</resources>
