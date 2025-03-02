@@ -6,4 +6,9 @@
     <string name="autofill_setting_activity_label">Şifreleri yönet</string>
 	<string name="autofill_password">Şifreleri otomatik olarak girin</string>
 	<string name="autofill_description">Xiaomi şifrelerinizi şifreleyip saklayabilir, böylece ihtiyaç duyduğunuzda otomatik olarak girebilirsiniz. Şifrelenmiş şifrelerinizi okuyamayız.</string>
+	<string name="using_miui_autofill_message">"Şifreleri otomatik olarak girmek için hesap bilgilerinizi ve şifrelerinizi cihazınıza kaydedeceğiz."</string>
+	<string name="ok">Tamam</string>
+	<string name="cancel">İptal</string>
+	<string name="miuix_appcompat_cancel_description">İptal</string>
+	<string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
 </resources>

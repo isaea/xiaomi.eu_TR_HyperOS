@@ -45,8 +45,8 @@
         <item quantity="other">%1$s | Erişti %2$d kez</item>
     </plurals>
 	<plurals name="permission_usage_allow_storage">
-        <item quantity="one">%1$s｜Erişti fotoğraflar, videolar, ses ve dosyalar %2$d kez</item>
-        <item quantity="other">%1$s｜Erişti fotoğraflar, videolar, ses ve dosyalar %2$d kez</item>
+        <item quantity="one">%1$s｜Fotoğraflar, videolar, ses ve dosyalarına erişti %2$d kez</item>
+        <item quantity="other">%1$s｜Fotoğraflar, videolar, ses ve dosyalarına erişti %2$d kez</item>
     </plurals>
 	<plurals name="permission_usage_deny_autostart">
         <item quantity="one">%1$s | Bu uygulamanın otomatik başlatılması reddedildi %2$d kez</item>
@@ -103,5 +103,13 @@
 	<plurals name="permission_usage_allow_r_contacts">
         <item quantity="one">%1$s | Bu uygulama kişilerinize erişti %2$d kez</item>
         <item quantity="other">%1$s | Bu uygulama kişilerinize erişti %2$d kez</item>
+    </plurals>
+	<plurals name="permission_usage_allow_w_contacts">
+        <item quantity="other">%1$s | Bu uygulama kişilerinizi düzenledi %2$d kez</item>
+        <item quantity="one">%1$s | Bu uygulama kişilerinizi düzenledi %2$d kez</item>
+    </plurals>
+	<plurals name="permission_usage_allow_media_aural">
+        <item quantity="other">%1$s | Bu uygulama müzik ve sese erişti %2$d kez</item>
+        <item quantity="one">%1$s | Bu uygulama müzik ve sese erişti %2$d kez</item>
     </plurals>
 </resources>

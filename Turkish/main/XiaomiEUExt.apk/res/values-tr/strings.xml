@@ -7,4 +7,7 @@
     <string name="home_search_gesture_app">Yukarı kaydırma arama sağlayıcısı</string>
     <string name="lockscreen_side_apps">Yan panel kısayolları</string>
 	<string name="status_bar_icons">Durum çubuğu simgeleri</string>
+	<string name="wifi_region">Wi-Fi bölgesi</string>
+	<string name="auto">Otomatik</string>
+	<string name="contributors">Katkıda bulunanlar</string>
 </resources>

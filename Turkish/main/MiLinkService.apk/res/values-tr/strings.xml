@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="circulate_cta_premission_bluetooth_subtitle">Cihazları bağlamak ve aralarında veri aktarımı yapmak için</string>
+	<string name="circulate_cta_premission_wlan_subtitle_china">Öğeleri aktarmak ve cihazları Wi-Fi üzerinden bağlamak için</string>
+	<string name="circulate_cta_premission_sound_subtitle">Yayınlama ve ekran yansıtma sırasında yerel sesi kaydetmek için</string>
+	<string name="circulate_cta_desc_lite_phone">Xiaomi Bağlantı Hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşim kurmasını sağlar. Bu hizmetlerin normal çalışabilmesi için internete bağlanması ve aşağıdaki izinlere ihtiyaç duyması gerekir:</string>
+	<string name="circulate_cta_desc_phone">Xiaomi Bağlantı Hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşim kurmasını sağlar. Bu hizmetlerin normal çalışabilmesi için internete bağlanması ve aşağıdaki izinlere ihtiyaç duyması gerekir:</string>
+</resources>

@@ -112,4 +112,6 @@
 	<string name="pa_express_shunfeng_verify_dialog_ok">Tamam</string>
 	<string name="pa_picker_detail_download_app_dialog_confirm">Tamam</string>
 	<string name="pa_setting_personalized_recommenddation_swicth_summary">İlgi Alanlarınıza göre Widget önerileri alın</string>
+	<string name="pa_picker_detail_theme_app_cta_pre">"Bu widget'ı kullanabilmek için öncelikle Temaların internete bağlanmasına izin verin. "</string>
+	<string name="pa_toast_message_not_support_size">"Bu boyuttaki widget'lar Uygulama kasası tarafından desteklenmiyor"</string>
 </resources>
