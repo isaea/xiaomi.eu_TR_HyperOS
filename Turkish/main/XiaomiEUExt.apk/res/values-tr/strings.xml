@@ -10,4 +10,6 @@
 	<string name="wifi_region">Wi-Fi bölgesi</string>
 	<string name="auto">Otomatik</string>
 	<string name="contributors">Katkıda bulunanlar</string>
+	<string name="add">Ekle</string>
+	<string name="reset">Sıfırla</string>
 </resources>

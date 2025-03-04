@@ -119,8 +119,8 @@ Giriş yapmak için buraya tıkla.</string>
 	<string name="privacy_phone_logoff_theme_content_4">4. Bu cihazda oluşturulan tüm arama geçmişi kayıtları, izin tercihleri, ayarlar ve önbelleğe alınmış öğeler.</string>
 	<string name="current_version">Yüklü sürüm: %1$s</string>
 	<string name="about_app_name">Mod Hakında</string>
-	<string name="server_message">EU Rom için için çeviri: by 🅴🅰</string>
-	<string name="about_securitycenter_icp">Aralık-2024 - v4.2.6.5 (HyperOS.1.0.8.0) &gt;</string>
+	<string name="server_message">EU rom için için çeviri: by 🅴🅰</string>
+	<string name="about_securitycenter_icp">HyperOS 2025 &gt;</string>
 	<string name="lockscreen_desk_wallpaper">Ana ekran ve Kilit ekranı duvar kağıtları</string>
 	<string name="apply_succeed">Başarıyla uygulandı</string>
 	<string name="incall_show_apply_success">Başarıyla uygulandı</string>
@@ -171,4 +171,15 @@ Giriş yapmak için buraya tıkla.</string>
 	<string name="lockscreen_tip_content">Düzenlemeye başlamak için Kilit ekranını basılı tutun. Yepyeni özelleştirme seçenekleri ve şablonlarla onu gerçekten kendinize ait hale getirin.</string>
 	<string name="detail_reward_know_it">Anladım</string>
 	<string name="i_know">Anladım</string>
+	<string name="pref_lockscreen_magazine_summary">Duvar kağıdını çeşitli kategorilerden resimlerin slayt gösterileriyle değiştirin</string>
+	<string name="incall_show_apply">Profil videosu olarak ayarla</string>
+    <string name="incall_show_apply_fail">Ayarlanamadı</string>
+    <string name="incall_show_apply_success_without_ringtone">Başarıyla uygulandı. Bu videonun sesi yok. Orijinal zil sesi kullanılacak.
+Bu özelliği kapatmak için Ayarlar'a gidin &gt; Ses &amp; titreşim &gt; Profil videosu.</string>
+    <string name="incall_show_find_more">Daha fazlasını bulun</string>
+    <string name="incall_show_not_set">Profil videosu yok</string>
+    <string name="incall_show_remove">Profil videosunu kaldır</string>
+    <string name="incall_show_remove_dialog_message">Giden aramalar için zaten bir profil videosu ayarladınız. Videoyu şimdi kaldırmak ister misiniz?</string>
+    <string name="incall_show_remove_success">Profil videosu başarıyla kaldırıldı</string>
+    <string name="incall_show_title">Profil videoları</string>
 </resources>

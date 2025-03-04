@@ -47,4 +47,14 @@
 	<string name="nrca_type_title">Taşıyıcı toplama durumu</string>
     <string name="nrca_unregistered">Kayıtsız</string>
 	<string name="nrca_registered">Kayıtlı</string>
+	<string name="wifi_repair_confirm_desc">Bu sorunlardan herhangi birini yaşadınız mı?
+%1$d. Wi-Fi'yi etkinleştiremediniz
+%2$d. Wi-Fi ağı yavaş
+%3$d. Diğer Wi-Fi özellikleri çalışmıyor.</string>
+	<string name="wifi_repair_action_btn">Geri yükle</string>
+    <string name="wifi_repair_btn_confirm">Onayla</string>
+    <string name="wifi_repair_btn_no">Hayır</string>
+    <string name="wifi_repair_btn_yes">Onarmayı dene</string>
+	<string name="fingerprint_face_password_unlock">Parmak izi, yüz ve ekran kilidi</string>
+    <string name="fingerprint_face_password_unlock_new">Parmak izi, yüz ve ekran kilidi</string>
 </resources>
