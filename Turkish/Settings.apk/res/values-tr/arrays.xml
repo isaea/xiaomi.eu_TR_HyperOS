@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string-array name="default_vol_stream_entries" public="false">
+        <item>Zil Sesi</item>
+        <item>Medya</item>
+    </string-array>
+	<string-array name="bt_hci_snoop_log_entries">
+        <item>Devre dışı</item>
+        <item>Filtrelenmiş</item>
+        <item>Aktif</item>
+        <item>Filtrelenmiş başlıklar aktif</item>
+        <item>Filtrelenmiş medya paketleri aktif</item>
+        <item>Filtrelenmiş profiller aktif</item>
+    </string-array>
+	<string-array name="select_logd_system_levels">
+        <item>Kapalı</item>
+        <item>Hata</item>
+        <item>Uyarı</item>
+        <item>Bilgi</item>
+        <item>Hata ayıklama</item>
+        <item>Ayrıntılı</item>
+    </string-array>
+</resources>
