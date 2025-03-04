@@ -8,7 +8,7 @@
     <string name="scanHistory_close">Kapat</string>
 	<string name="scanHistory_isOpen">Taranan öğelerin geçmişini şimdi takip etmeye başlanılsın mı?</string>
     <string name="scanHistory_open">Aç</string>
-	<string name="create">GQR kod oluştur</string>
+	<string name="create">QR kod oluştur</string>
     <string name="createFail">QR kodu oluşturulamadı. Mesajınız çok uzun.</string>
 	<string name="function">Özellikler</string>
 	<string name="permission_management">İzinler</string>
