@@ -112,7 +112,7 @@ Baştan başla.</string>
 	<string name="light_sleep_duration">Hafif uyku süresi</string>
 	<string name="deep_sleep_duration">Derin uyku süresi</string>
 	<string name="more">Çok fazla</string>
-	<string name="deep_sleep_duration_description">İnsanlar uyuduğunda, periyodik hızlı göz hareketleri meydana gelir. Uyku, hızlı göz hareketi (REM) uykusu ve hızlı olmayan göz hareketi (NREM) uykusu olarak ikiye ayrılabilir. Derin uyku, genel uyku süresinin yaklaşık %20 ila %25'ini oluşturan NREM uykusu dönemlerinde gerçekleşir. Beyniniz derin uyku sırasında dinlenir ve düşük bilinçli aktivite seviyeleri gösterir, bu nedenle uyanmak kolay değildir.</string>
+	<string name="deep_sleep_duration_description">İnsanlar uyuduğunda, periyodik hızlı göz hareketleri meydana gelir. Uyku, hızlı göz hareketi (REM) uykusu ve hızlı olmayan göz hareketi (NREM) uykusu olarak ikiye ayrılabilir. Derin uyku, genel uyku süresinin yaklaşık %%20 ila 25'ini oluşturan NREM uykusu dönemlerinde gerçekleşir. Beyniniz derin uyku sırasında dinlenir ve düşük bilinçli aktivite seviyeleri gösterir, bu nedenle uyanmak kolay değildir.</string>
 	<string name="sleep_duration">Uyku süresi</string>
 	<string name="health_data_cloud_sync_title">Bulutla senkronize edin</string>
 	<string name="health_data_cloud_sync_subtitle">Sağlık verilerinizi bulutla senkronize edin ve herhangi bir cihazdan erişin</string>
