@@ -55,6 +55,4 @@
     <string name="wifi_repair_btn_confirm">Onayla</string>
     <string name="wifi_repair_btn_no">Hayır</string>
     <string name="wifi_repair_btn_yes">Onarmayı dene</string>
-	<string name="fingerprint_face_password_unlock">Parmak izi, yüz ve ekran kilidi</string>
-    <string name="fingerprint_face_password_unlock_new">Parmak izi, yüz ve ekran kilidi</string>
 </resources>
