@@ -55,4 +55,6 @@
     <string name="wifi_repair_btn_confirm">Onayla</string>
     <string name="wifi_repair_btn_no">Hayır</string>
     <string name="wifi_repair_btn_yes">Onarmayı dene</string>
+    <string name="extended_power_menu" public="false">Genişletilmiş güç menüsü</string>
+    <string name="var_font_switch_title" public="false">Sistem genelinde değişken yazı tipi</string>
 </resources>
