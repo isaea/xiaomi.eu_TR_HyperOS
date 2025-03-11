@@ -24,7 +24,7 @@
     <string name="status_bar_icons_title" public="false">Durum çubuğu simgeleri</string>
     <string name="status_bar_settings_notification_use_app_icon" public="false">Bildirimler için renkli uygulama simgelerini kullanın</string>
     <string name="status_bar_settings_qs_layout" public="false">Hızlı ayarlar düzeni</string>
-    <string name="status_bar_settings_show_lte_for_4g" public="false">4G için LTE simgesini göster</string>
+    <string name="status_bar_settings_show_lte_for_4g" public="false">4.5G yerine LTE simgesi göster</string>
     <string name="unmute_sound_title" public="false">Sessiz mod kapalıyken ses çal</string>
     <string name="var_font_switch_title" public="false">Sistem genelinde değişken yazı tipi</string>
     <string name="wifi_region_summary" public="false">Etkili olması için Wi-Fi'nin yeniden başlatılması gerekir</string>
@@ -55,6 +55,5 @@
     <string name="wifi_repair_btn_confirm">Onayla</string>
     <string name="wifi_repair_btn_no">Hayır</string>
     <string name="wifi_repair_btn_yes">Onarmayı dene</string>
-    <string name="extended_power_menu" public="false">Genişletilmiş güç menüsü</string>
     <string name="var_font_switch_title" public="false">Sistem genelinde değişken yazı tipi</string>
 </resources>
