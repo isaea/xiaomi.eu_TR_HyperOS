@@ -131,7 +131,7 @@
 	<string name="pp_hide_app">Uygulamaları gizle</string>
 	<string name="xiaomi_privacy_protection_measures">Gizlilik koruması ölçümleri</string>
 	<string name="pp_capability_approved_title">Gizlilik koruması ölçümlerimiz endüstirinin uzmanları tarafından test edildi ve sertifikalandı</string>
-	<string name="oaid_apps_summary">İndividual uygulamaları engelle veya izin ver</string>
+	<string name="oaid_apps_summary">Bireysel uygulamaları engelle veya izin ver</string>
 	<string name="restore_oaid_title">Sanal kimliği sıfırla</string>
 	<string name="restore_oaid_content">Sanal kimliğinizi sıfırlayarak davranışlarınızı ve kayıtlarınızı sıfırlayın</string>
 	<string name="oaid_string">Sanal kimliğiniz:
