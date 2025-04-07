@@ -56,4 +56,5 @@
     <string name="wifi_repair_btn_no">Hayır</string>
     <string name="wifi_repair_btn_yes">Onarmayı dene</string>
     <string name="var_font_switch_title" public="false">Sistem genelinde değişken yazı tipi</string>
+    <string name="my_device_camera_params">Kamera özellikleri</string>
 </resources>
