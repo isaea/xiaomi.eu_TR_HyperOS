@@ -182,4 +182,7 @@ Bu özelliği kapatmak için Ayarlar'a gidin &gt; Ses &amp; titreşim &gt; Profi
     <string name="incall_show_remove_dialog_message">Giden aramalar için zaten bir profil videosu ayarladınız. Videoyu şimdi kaldırmak ister misiniz?</string>
     <string name="incall_show_remove_success">Profil videosu başarıyla kaldırıldı</string>
     <string name="incall_show_title">Profil videoları</string>
+    <string name="choose_from_photo">Galeriden Seç</string>
+    <string name="personalize_aod_notify_style_title">Her zaman açık ekran bildirimleri</string>
+    <string name="personalize_theme_title">Temalar</string>
 </resources>
