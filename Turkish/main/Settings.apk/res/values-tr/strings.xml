@@ -51,4 +51,7 @@
     <string name="wifi_repair_btn_yes">Onarmayı dene</string>
     <string name="var_font_switch_title" public="false">Sistem genelinde değişken yazı tipi</string>
     <string name="my_device_camera_params">Kamera özellikleri</string>
+    <string name="allow_update_system_app" public="false">Sistem uygulamalarının güncellenmesine izin ver</string>
+    <string name="bluetooth_enable_page_scan">Bluetooth sayfa taramasını etkinleştir</string>
+    <string name="bluetooth_enable_page_scan_summary">Bluetooth testi için sayfa taramasını devre dışı bırak/etkinleştir</string>
 </resources>
