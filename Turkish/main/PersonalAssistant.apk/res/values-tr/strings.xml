@@ -46,18 +46,18 @@
 	<string name="pa_search_summary">Arama çubuğunu görüntüle</string>
 	<string name="pa_stack_text">Güncellenen öğeleri yukarı taşı</string>
 	<string name="pa_stack_summary">Yeni bilgiler içeren widget'ları en üste taşı</string>
-    <string name="pa_picker_list_app_title">Widget'lı uygulamalar</string>
+        <string name="pa_picker_list_app_title">Widget'lı uygulamalar</string>
 	<string name="pa_picker_classic_widget">Android widgetlar</string>
 	<string name="pa_picker_list_app_footer_classic_widget">Android widgetlar</string>
 	<string name="pa_cta_dialog_all_purpose">App Vault'a hoş geldiniz! Bu uygulama iş, yaşam tarzı ve seyahatle ilgili hizmetler için tek durak noktasıdır.</string>
-    <string name="pa_guide_dialog_desc">Yeniden düzenlemek için bir widget'ı basılı tutun. Daha fazla widget eklemek için artıya dokunun.</string>
-    <string name="pa_guide_dialog_sure">Anladım</string>
-    <string name="pa_guide_dialog_title">Widget mağazamıza göz atın</string>
+        <string name="pa_guide_dialog_desc">Yeniden düzenlemek için bir widget'ı basılı tutun. Daha fazla widget eklemek için artıya dokunun.</string>
+        <string name="pa_guide_dialog_sure">Anladım</string>
+        <string name="pa_guide_dialog_title">Widget mağazamıza göz atın</string>
 	<string name="pa_setting_privacy_revoke_positive">Anladım</string>
 	<string name="pa_picker_detail_add_to_minus">Uygulama Kasasına Ekle</string>
 	<string name="pa_picker_detail_app_widget_in_dev">Bu widget henüz mevcut değil. Bunun yerine diğer widget'ları kontrol edebilirsiniz.</string>
-    <string name="pa_picker_detail_bottom_bt_source_home">Ana ekran</string>
-    <string name="pa_picker_detail_bottom_bt_text_to_minus">Uygulama Kasasına Ekle</string>
+        <string name="pa_picker_detail_bottom_bt_source_home">Ana ekran</string>
+        <string name="pa_picker_detail_bottom_bt_text_to_minus">Uygulama Kasasına Ekle</string>
 	<string name="pa_picker_detail_download_maml_dialog_title">Veri Kullanımı Uyarısı</string>
 	<string name="pa_picker_detail_download_maml_dialog_message">Bu widget'ı şimdi indirmek için %s mobil veri gereklidir. yine de indir?</string>
 	<string name="pa_picker_detail_download_maml_dialog_cancel">Wi-Fi'yi bekle</string>
@@ -85,7 +85,7 @@
 	<string name="pa_setting_privacy_revoke_cta_summary">App Vault'un gizlilik politikasına onay geri alın</string>
 	<string name="pa_setting_privacy_logout">Hizmetleri iptal et</string>
 	<string name="pa_setting_privacy_logout_dialog_title">Uygulama Kasası Hizmetlerini İptal Et</string>
-    <string name="pa_setting_privacy_logout_summary">Uygulama Kasası Hizmetlerini İptal Et</string>
+        <string name="pa_setting_privacy_logout_summary">Uygulama Kasası Hizmetlerini İptal Et</string>
 	<string name="pa_setting_personalized_recommenddation_swicth_title">Kişiselleştirilmiş Öneriler</string>
 	<string name="pa_setting_privacy_perm_install_app">Bu cihazda yüklü uygulamaların listesine erişin</string>
 	<string name="pa_setting_privacy_perm_granted">Verildi</string>
@@ -93,7 +93,7 @@
 	<string name="pa_setting_privacy_revoke_cta_message">Devam ederseniz, App Vault'un gizlilik politikasına onayınızı geri çekersiniz. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe, yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. App Vault, gerekli kişisel bilgilerin toplanmasına dayalı olarak hizmetlerini sağladığından, onayınızı geri çekmeniz, App Kasası hizmetlerini kabul etmeyi reddediyor olarak kabul edilecektir. şimdi rıza geri çekilmek mi?</string>
 	<string name="pa_shopping_dialog_privacy_withdraw_message">Devam ederseniz, alışverişin gizlilik politikasına onayınızı geri çekersiniz. Kişisel bilgilerinizi toplamayı bırakacağız. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe, yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Alışveriş, gerekli kişisel bilgilerin toplanmasına dayalı olarak hizmetlerini sağladığından, onayınızı geri çekmeniz bu hizmetleri kabul etmeyi reddetme olarak kabul edilecektir.</string>
 	<string name="pa_setting_privacy_revoke_cta_positive">Geri çek</string>
-    <string name="pa_setting_privacy_revoke_cta_progress">Geri çek (%ds)</string>
+        <string name="pa_setting_privacy_revoke_cta_progress">Geri çek (%ds)</string>
 	<string name="pa_widget_need_download_dialog_cancel">İptal</string>
 	<string name="miuix_appcompat_cancel_description">İptal</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
@@ -102,7 +102,7 @@
 	<string name="pa_picker_detail_download_app_dialog_cancel">İptal</string>
 	<string name="pa_picker_search_layout_cancel">İptal</string>
 	<string name="pa_setting_privacy_logout">Hizmetleri iptal et</string>
-    <string name="pa_setting_privacy_logout_dialog_message">Devam ederseniz, App Kasası hizmetlerini iptal edersiniz. Bundan sonra, App Vault widget'larını göremez veya kullanamazsınız. Halihazırda toplanan ve saklanan kişisel bilgiler, yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Yine de hizmetleri iptal et?</string>
+        <string name="pa_setting_privacy_logout_dialog_message">Devam ederseniz, App Kasası hizmetlerini iptal edersiniz. Bundan sonra, App Vault widget'larını göremez veya kullanamazsınız. Halihazırda toplanan ve saklanan kişisel bilgiler, yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Yine de hizmetleri iptal et?</string>
 	<string name="pa_sure">Tamam</string>
 	<string name="pa_widget_need_download_dialog_confirm">Tamam</string>
 	<string name="mtrl_picker_confirm">Tamam</string>
@@ -114,4 +114,12 @@
 	<string name="pa_setting_personalized_recommenddation_swicth_summary">İlgi Alanlarınıza göre Widget önerileri alın</string>
 	<string name="pa_picker_detail_theme_app_cta_pre">"Bu widget'ı kullanabilmek için öncelikle Temaların internete bağlanmasına izin verin. "</string>
 	<string name="pa_toast_message_not_support_size">"Bu boyuttaki widget'lar Uygulama kasası tarafından desteklenmiyor"</string>
+	<string name="pa_net_unavailable">Ağa bağlanılamadı</string>
+	<string name="pa_picker_search_error">Ağa bağlanılamadı</string>
+	<string name="pa_setting_privacy_revoke_no_net_title">Ağa bağlanılamadı</string>
+	<string name="pa_shopping_widget_no_network_content_desc">Ağa bağlanılamadı</string>
+	<string name="pa_stock_network_unavailable">Ağa bağlanılamadı</string>
+	<string name="pa_picker_retry">Tekrar deneyin</string>
+	<string name="pa_world_cup_widget_request_retry">Tekrar deneyin</string>
+	<string name="pa_picker_home_request_failed">Ağ hatası</string>
 </resources>
