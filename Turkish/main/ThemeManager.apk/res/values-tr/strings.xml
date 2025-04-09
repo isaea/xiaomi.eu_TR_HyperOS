@@ -190,7 +190,7 @@ Bu özelliği kapatmak için Ayarlar'a gidin &gt; Ses &amp; titreşim &gt; Profi
 	<string name="apply_wallpaper_only_home">Yalnızca Ana ekran</string>
 	<string name="apply_wallpaper_to_lockscreen">Bu duvar kağıdını Kilit ekranına da uygula?</string>
 	<string name="apply_wallpaper_warning_when_use_super_wallpaper">Süper duvar kağıtlarını kullanmaya devam edebilmek için en son sürüme güncelleyin.</string>
-	<string name="apply_at_the_same_time">İkisini de ayarla</string>
-	<string name="wallpaper_set_as_both_large">İkisini de ayarla</string>
-	<string name="wallpaper_set_as_both_small">İkisini de ayarla</string>
+	<string name="apply_at_the_same_time">İkisine de ayarla</string>
+	<string name="wallpaper_set_as_both_large">İkisine de ayarla</string>
+	<string name="wallpaper_set_as_both_small">İkisine de ayarla</string>
 </resources>
