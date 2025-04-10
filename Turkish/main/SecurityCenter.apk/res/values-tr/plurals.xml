@@ -52,6 +52,10 @@
         <item quantity="one">%1$s | Bu uygulamanın otomatik başlatılması reddedildi %2$d kez</item>
         <item quantity="other">%1$s | Bu uygulamanın otomatik başlatılması reddedildi %2$d kez</item>
     </plurals>
+        <plurals name="permission_usage_deny_wake_path">
+        <item quantity="one">%1$s | Bu uygulamanın otomatik olarak başlatılması engellendi %2$s %3$d kez</item>
+        <item quantity="other">%1$s | Bu uygulamanın otomatik olarak başlatılması engellendi %2$s %3$d kez</item>
+    </plurals>
 	<plurals name="permission_usage_deny_camera">
         <item quantity="one">%1$s | Bu uygulamanın kameraya erişimi reddedildi %2$d kez</item>
         <item quantity="other">%1$s | Bu uygulamanın kameraya erişimi reddedildi %2$d kez</item>
