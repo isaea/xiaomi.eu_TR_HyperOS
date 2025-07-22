@@ -193,4 +193,5 @@ Bu özelliği kapatmak için Ayarlar'a gidin &gt; Ses &amp; titreşim &gt; Profi
 	<string name="apply_at_the_same_time">İkisine de ayarla</string>
 	<string name="wallpaper_set_as_both_large">İkisine de ayarla</string>
 	<string name="wallpaper_set_as_both_small">İkisine de ayarla</string>
+	<string name="local_notification_update_theme_title">Temalarınızı güncelleyin</string>
 </resources>
