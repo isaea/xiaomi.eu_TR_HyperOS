@@ -70,7 +70,7 @@ Giriş yapmak için buraya tıkla.</string>
 	<string name="toast_lockscreen_apply_success">Kilit ekranına uygulandı</string>
 	<string name="toast_both_all_apply_success">Ana Ekran ve Kilit ekranına uygulandı</string>
 	<string name="theme_component_title_homepage">Ana Menü</string>
-	<string name="loop_video_wallpaper" public="false">Hareketli duvar kağıdı döngüsü</string>
+	<string name="loop_video_wallpaper">Hareketli duvar kağıdı döngüsü</string>
 	<string name="privacy_settings">Gizlilik</string>
 	<string name="privacy_pad_fold_entry">Gizlilik</string>
 	<string name="privacy_permission_related_content">İzinler</string>
@@ -194,4 +194,15 @@ Bu özelliği kapatmak için Ayarlar'a gidin &gt; Ses &amp; titreşim &gt; Profi
 	<string name="wallpaper_set_as_both_large">İkisine de ayarla</string>
 	<string name="wallpaper_set_as_both_small">İkisine de ayarla</string>
 	<string name="local_notification_update_theme_title">Temalarınızı güncelleyin</string>
+	<string name="icon_pad_setting_find_more_title">Diğer simgeler</string>
+<string name="more_icon_style">Diğer simgeler</string>
+<string name="wallpaper_no_favorite">Henüz burada öğe yok.</string>
+<string name="wallpaper_no_record">Henüz burada öğe yok.</string>
+<string name="ad_app_is_downloading">İndiriliyor…</string>
+<string name="common_downloading">İndiriliyor…</string>
+<string name="kg_length_preset_button_downloading">İndiriliyor…</string>
+<string name="large_icon_official">Varsayılan</string>
+<string name="provision_default_theme_title">Varsayılan</string>
+<string name="show_values_flag">varsayılan</string>
+<string name="theme_description_title_default">Varsayılan</string>
 </resources>
