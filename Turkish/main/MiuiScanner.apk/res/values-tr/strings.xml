@@ -18,4 +18,23 @@
 	<string name="if_open_result">Uygulamaya döndüğünüzde tarama sonucunu göster</string>
 	<string name="user_agreement">Kullanıcı Sözleşmesi</string>
     <string name="user_notification">Onayın geri çekilmesi</string>
+	<string name="app_name">Tarayıcı</string>
+<string name="xiaoai_vision">Tarayıcı</string>
+<string name="scan_code_lite_object_guard">Bir barkodu veya QR kodunu tara</string>
+<string name="continue_video">Tara</string>
+<string name="immediately_try">Tara</string>
+<string name="immediately_try_video">Tara</string>
+<string name="recognize">Tara</string>
+<string name="scan_code_object">Tara</string>
+<string name="setting_preference_pay">Tercih edilen ödeme yöntemi</string>
+<string name="multipage_mode">Çok sayfalı tarama</string>
+<string name="scan_document_top_tip">PDF oluşturmak için kağıt belgeyi tara</string>
+<string name="scan_pdf_guard">PDF oluşturmak için kağıt belgeyi tara</string>
+<string name="scan_form">Tabloyu tara</string>
+<string name="scan_pdf">PDF Oluştur</string>
+<string name="transfer_document_summary">PDF Oluştur</string>
+<string name="scan_pdf_guard">PDF oluşturmak için kağıt belgeyi tara</string>
+<string name="scan_ppt">PPT</string>
+<string name="scan_ppt_guard">PowerPoint sunumları oluşturmak için içeriği tara</string>
+<string name="scan_result">Sonuç</string>
 </resources>
