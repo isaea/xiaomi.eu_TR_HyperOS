@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <resources>
-    <string name="contributors_title" public="false">Katkıda bulunanlar</string>
-    <string name="control_panel_switch_side" public="false">Kontrol merkezi yer değiş</string>
-    <string name="default_vol_stream_title" public="false">Varsayılan ses kontrol akışı</string>
-    <string name="device_description_battery" public="false">Pil kapasitesi</string>
-    <string name="device_description_camera" public="false">Arka kamera</string>
-    <string name="device_description_cpu" public="false">CPU</string>
-    <string name="device_description_ram" public="false">RAM</string>
-    <string name="device_description_resolution" public="false">Çözünürlük</string>
-    <string name="device_description_screen" public="false">Ekran</string>
-    <string name="display_notification_icon_5" public="false">%d simge</string>
-    <string name="extended_power_menu" public="false">Genişletilmiş güç menüsü</string>
-    <string name="lockscreen_sidepanel_shortcuts_summary" public="false">Kilit ekranı yan panelinde görüntülenen uygulamaları özelleştirin</string>
-    <string name="lockscreen_sidepanel_shortcuts_title" public="false">Yan panel kısayolları</string>
-    <string name="power_menu_under_keyguard_summary" public="false">Cihaz kilitliyken güç menüsüne erişime izin ver</string>
-    <string name="power_menu_under_keyguard_title" public="false">Güç menüsü erişimi</string>
-    <string name="status_bar_icons_title" public="false">Durum çubuğu simgeleri</string>
-    <string name="status_bar_settings_notification_use_app_icon" public="false">Bildirimler için renkli uygulama simgelerini kullanın</string>
-    <string name="status_bar_settings_qs_layout" public="false">Hızlı ayarlar düzeni</string>
-    <string name="status_bar_settings_show_lte_for_4g" public="false">4.5G yerine LTE simgesi göster</string>
-    <string name="unmute_sound_title" public="false">Sessiz mod kapalıyken ses çal</string>
-    <string name="var_font_switch_title" public="false">Sistem genelinde değişken yazı tipi</string>
-    <string name="wifi_region_summary" public="false">Etkili olması için Wi-Fi'nin yeniden başlatılması gerekir</string>
-    <string name="wifi_region_title" public="false">Wi-Fi bölgesi</string>
+    <string name="contributors_title">Katkıda bulunanlar</string>
+    <string name="control_panel_switch_side">Kontrol merkezi yer değiş</string>
+    <string name="default_vol_stream_title">Varsayılan ses kontrol akışı</string>
+    <string name="device_description_battery">Pil kapasitesi</string>
+    <string name="device_description_camera">Arka kamera</string>
+    <string name="device_description_cpu">CPU</string>
+    <string name="device_description_ram">RAM</string>
+    <string name="device_description_resolution">Çözünürlük</string>
+    <string name="device_description_screen">Ekran</string>
+    <string name="display_notification_icon_5">%d simge</string>
+    <string name="extended_power_menu">Genişletilmiş güç menüsü</string>
+    <string name="lockscreen_sidepanel_shortcuts_summary">Kilit ekranı yan panelinde görüntülenen uygulamaları özelleştirin</string>
+    <string name="lockscreen_sidepanel_shortcuts_title">Yan panel kısayolları</string>
+    <string name="power_menu_under_keyguard_summary">Cihaz kilitliyken güç menüsüne erişime izin ver</string>
+    <string name="power_menu_under_keyguard_title">Güç menüsü erişimi</string>
+    <string name="status_bar_icons_title">Durum çubuğu simgeleri</string>
+    <string name="status_bar_settings_notification_use_app_icon">Bildirimler için renkli uygulama simgelerini kullanın</string>
+    <string name="status_bar_settings_qs_layout">Hızlı ayarlar düzeni</string>
+    <string name="status_bar_settings_show_lte_for_4g">4.5G yerine LTE simgesi göster</string>
+    <string name="unmute_sound_title">Sessiz mod kapalıyken ses çal</string>
+    <string name="var_font_switch_title">Sistem genelinde değişken yazı tipi</string>
+    <string name="wifi_region_summary">Etkili olması için Wi-Fi'nin yeniden başlatılması gerekir</string>
+    <string name="wifi_region_title">Wi-Fi bölgesi</string>
     <string name="wifi_state_disabled">Devre dışı</string>
     <string name="wifi_state_enabled">Aktif</string>
     <string name="wifi_fast_repair_title">Wi-Fi işlevselliğini geri yükle</string>
     <string name="wifi_fast_repair_summary">Wi-Fi ağ sorunlarını düzeltmeyi dene</string>
     <string name="fingerprint_face_password_unlock">Parmak izi, yüz ve ekran kilidi</string>
     <string name="fingerprint_face_password_unlock_new">Parmak izi, yüz ve ekran kilidi</string>
-    <string name="allow_all_rotations_title" public="false">Tüm döndürmelere izin ver</string>
+    <string name="allow_all_rotations_title">Tüm döndürmelere izin ver</string>
     <string name="input_method_function_switch">Klavyeler arasında geçiş yap</string>
     <string name="input_method_function_switch_des">Farklı bir klavyeye geçmek için dokunun</string>
     <string name="input_method_function_clipboard">Pano ve sık ifadeler</string>
@@ -49,9 +49,16 @@
     <string name="wifi_repair_btn_confirm">Onayla</string>
     <string name="wifi_repair_btn_no">Hayır</string>
     <string name="wifi_repair_btn_yes">Onarmayı dene</string>
-    <string name="var_font_switch_title" public="false">Sistem genelinde değişken yazı tipi</string>
     <string name="my_device_camera_params">Kamera özellikleri</string>
-    <string name="allow_update_system_app" public="false">Sistem uygulamalarının güncellenmesine izin ver</string>
+    <string name="allow_update_system_app">Sistem uygulamalarının güncellenmesine izin ver</string>
     <string name="bluetooth_enable_page_scan">Bluetooth sayfa taramasını etkinleştir</string>
     <string name="bluetooth_enable_page_scan_summary">Bluetooth testi için sayfa taramasını devre dışı bırak/etkinleştir</string>
+    <string name="dsu_loader_description">Dinamik Sistem Güncelleme Resmini Yükle</string>
+    <string name="oaid_apps_title">Sanal kimliği yönet</string>
+    <string name="oaid_apps_summary">Bireysel uygulamalar için erişime izin verin veya erişimi kısıtla</string>
+    <string name="ring_volume_option_title">Zil sesi</string>
+<string name="ringtone_title">Zil sesi</string>
+<string name="media_category">Medya</string>
+<string name="media_controls_title">Medya</string>
+<string name="media_volume_option_title">Medya</string>
 </resources>
