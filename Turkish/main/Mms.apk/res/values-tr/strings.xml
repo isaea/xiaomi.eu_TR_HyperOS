@@ -21,7 +21,7 @@
     <string name="mx_dspt_listview_translation_for_pad">Bir Wi-Fi ağına bağlı olduğunuzda diğer Xiaomi cihazlarına ücretsiz olarak SMS ve MMS gönderin</string>
     <string name="mx_dspt_translation_for_pad">Bir Wi-Fi ağına bağlı olduğunuzda diğer Xiaomi cihazlarına ücretsiz olarak SMS ve MMS gönderin</string>
     <string name="system_permission_perm_all_purpose">Mesajlaşmaya Hoş Geldiniz! Bu uygulamayı kullanarak metin ve multimedya mesajları gönderebilir ve alabilirsiniz.</string>
-    <string name="mx_main_purpose">Mi Message, ücret ödemeden internet üzerinden diğer Mi Message kullanıcılarına mesaj göndermenizi sağlar.
+    <string name="mx_main_purpose">Mi Mesaj, ücret ödemeden internet üzerinden diğer Mi Message kullanıcılarına mesaj göndermenizi sağlar.
 Mi Message'ı etkinleştirmek için giden bir SMS mesajı gerekir. Operatörünüz bu mesaj için sizden ücret talep edecektir.</string>
     <string name="mms_title">Mesajlaşma</string>
     <string name="privacy_policy_name_mms">Mesajlaşma</string>
