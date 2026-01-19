@@ -61,4 +61,9 @@
 <string name="media_category">Medya</string>
 <string name="media_controls_title">Medya</string>
 <string name="media_volume_option_title">Medya</string>
+<string name="charge_animation_style_title">Şarj animasyonu</string>
+<string name="charge_animation_style_wave">Dalga</string>
+<string name="charge_animation_style_lollipop">Akış</string>
+<string name="charge_animation_style_none">Kapalı</string>
+<string name="charge_animation_style_summary">Tercih ettiğiniz kilit ekranı şarj animasyonu stilini seç</string>
 </resources>
