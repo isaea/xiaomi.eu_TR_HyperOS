@@ -229,4 +229,12 @@
     <string name="task_summary_open_system_touch">Dokunsal Geribildirimi Aç</string>
     <string name="task_summary_open_wlan">Wi-Fi'yi Aç</string>
     <string name="task_summary_open_zen_mode">DND modunu Aç</string>
+    <string name="gb_manual_video_record_title">Kayıtlar</string>
+<string name="app_predict_privacy_user_agreement_privacy_policy_text">Devam etmeden önce %1$s ve %2$s koşullarımızı okuyup kabul edin.</string>
+<string name="system_permission_declare_double_link"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyup kabul edin.</Data></string>
+<string name="system_permission_declare_meanwhile_double_link"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyup kabul edin.</Data></string>
+<string name="system_permission_declare_meanwhile_privacy_policy"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyup kabul edin.</Data></string> 
+<string name="system_permission_declare_meanwhile_user_agreement"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> okuyup kabul edin.</Data></string>
+<string name="system_permission_declare_privacy_policy"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> okuyup kabul edin.</Data></string>
+<string name="system_permission_declare_user_agreement"><Data>Devam etmeden önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> okuyup kabul edin.</Data></string>
 </resources>
