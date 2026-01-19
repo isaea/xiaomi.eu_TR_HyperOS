@@ -32,4 +32,28 @@
         <item quantity="one">%1$d dk önce</item>
         <item quantity="other">%1$d dk önce</item>
     </plurals>
+	<plurals name="goal_unit">
+        <item quantity="one">" adım"</item>
+        <item quantity="other">" adım"</item>
+	</plurals>
+	<plurals name="goal_unit_with_number">
+        <item quantity="one">%1$d adım</item>
+        <item quantity="other">%1$d adım</item>
+	</plurals>
+	<plurals name="step_num_format">
+        <item quantity="one">%1$d adım</item>
+        <item quantity="other">%1$d adım</item>
+	</plurals>
+	<plurals name="steps_format">
+        <item quantity="one">%1$d</item>
+        <item quantity="other">%1$d</item>
+	</plurals>
+	<plurals name="duration_unit_minute_format">
+        <item quantity="one">%1$d dakika</item>
+        <item quantity="other">%1$d dakika</item>
+	</plurals>
+	<plurals name="minutes">
+        <item quantity="one">%1$d dakika</item>
+        <item quantity="other">%1$d dakika</item>
+	</plurals>
 </resources>
