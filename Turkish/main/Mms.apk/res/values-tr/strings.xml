@@ -29,4 +29,7 @@ Mi Message'ı etkinleştirmek için giden bir SMS mesajı gerekir. Operatörün�
     <string name="privacy_policy_name_websms">Mi Mesajı</string>
     <string name="recommend_bar_title_smart_message">Akıllı Mesajlaşma</string>
     <string name="smart_message_title">Akıllı Mesajlaşma</string>
+    <string formatted="false" name="system_permission_declare_main_tained">%1s'e hoş geldiniz! %2s</string>
+<string name="menu_report">Geri Bildirim</string>
+<string name="pref_feedback_title">Geri Bildirim</string>
 </resources>
