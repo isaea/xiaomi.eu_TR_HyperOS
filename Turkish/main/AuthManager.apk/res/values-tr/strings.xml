@@ -22,4 +22,5 @@
     <string name="permdesc_receive_sms">%1$s SMS ve MMS almasına izin verilsin mi?</string>
     <string name="permgroupdesc_read_media_visual_more">%1$s daha fazla fotoğrafa ve videoya erişmesine izin verilsin mi?</string>
     <string name="permgroupdesc_read_media_visual_u">%1$s bu cihazdaki fotoğraflara ve videolara erişmesine izin verilsin mi?</string>
+	<string name="overlay_read_clip_toast">\"%1$s\" panoya erişdi</string>
 </resources>
