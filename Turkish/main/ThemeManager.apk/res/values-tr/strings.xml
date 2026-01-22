@@ -205,4 +205,9 @@ Bu özelliği kapatmak için Ayarlar'a gidin &gt; Ses &amp; titreşim &gt; Profi
 <string name="provision_default_theme_title">Varsayılan</string>
 <string name="show_values_flag">varsayılan</string>
 <string name="theme_description_title_default">Varsayılan</string>
+	<string name="lock_screen_apply">Kilit ekranı olarak ayarla</string>
+<string name="to_lock_screen">Kilit ekranı olarak ayarla</string>
+<string name="wallpaper_set_as_lockscreen">Kilit ekranı olarak ayarla</string>
+<string name="to_the_desktop">Ana ekran olarak ayarla</string>
+<string name="wallpaper_set_as_desktop">Ana ekran olarak ayarla</string>
 </resources>
