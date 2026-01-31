@@ -24,4 +24,6 @@
     <string name="permgroupdesc_read_media_visual_u">%1$s bu cihazdaki fotoğraflara ve videolara erişmesine izin verilsin mi?</string>
 	<string name="overlay_read_clip_toast">\"%1$s\" panoya erişdi</string>
 	<string name="permdesc_nearby_wifi_devices">Bu uygulamanın Wi-Fi yoluyla yakındaki cihazlara bağlanmasına, onlara yayın yapmasına ve göreceli konumlarını belirlemesine izin verin.</string>
+	<string name="clip_notification_close_title">Panoya erişim hatırlatıcılarını kapat</string>
+<string name="clip_notification_close_summary">Bir uygulama panoya eriştiğinde hatırlatıcı almayı durdur?</string>
 </resources>
